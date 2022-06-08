@@ -30,40 +30,40 @@ To run the notebook, you need to install the [`CLASS`](https://github.com/lesgou
 1. Varying the Hubble parameter:
 
 <p align="center">
-  <img alt="Image" src="https://i.imgur.com/lQN2U8P.png" width="45%">
+  <img alt="Image" src="https://i.imgur.com/rd7T7cA.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="image" src="https://i.imgur.com/n34BTMq.gif" width="45%">
+  <img alt="image" src="https://i.imgur.com/nQ4l3nF.gif" width="45%">
 </p>
 
 2. Varying the CMB temperature:
 
 <p align="center">
-  <img alt="Image" src="https://i.imgur.com/kCHVm3x.png" width="45%">
+  <img alt="Image" src="https://i.imgur.com/zAz2v03.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="image" src="https://i.imgur.com/tY9tUug.gif" width="45%">
+  <img alt="image" src="https://i.imgur.com/XRLOyJS.gif" width="45%">
 </p>
 
 3. Varying the baryon density and the cosmological constant density:
 
 <p align="center">
-  <img alt="Image" src="https://i.imgur.com/bhjBh2z.png" width="45%">
+  <img alt="Image" src="https://i.imgur.com/WowdxuZ.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="image" src="https://i.imgur.com/0f9MPFM.gif" width="45%">
+  <img alt="image" src="https://i.imgur.com/JVtZUOX.gif" width="45%">
 </p>
 
 4. Varying the cold dark matter density and the cosmological constant density:
 
 <p align="center">
-  <img alt="Image" src="https://i.imgur.com/VPsVFtp.png" width="45%">
+  <img alt="Image" src="https://i.imgur.com/O8zdyaJ.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="image" src="https://i.imgur.com/61ESKjN.gif" width="45%">
+  <img alt="image" src="https://i.imgur.com/0TlbBYl.gif" width="45%">
 </p>
 
 5. Varying the curvature density and the cosmological constant density:
 
 <p align="center">
-  <img alt="Image" src="https://i.imgur.com/UEivzed.png" width="45%">
+  <img alt="Image" src="https://i.imgur.com/VpnAMYb.png" width="45%">
 &nbsp; &nbsp; &nbsp; &nbsp;
-  <img alt="image" src="https://i.imgur.com/SCUzbPu.gif" width="45%">
+  <img alt="image" src="https://i.imgur.com/M1QQg4h.gif" width="45%">
 </p>
 

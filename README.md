@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.imgur.com/Uao9CIy.png" alt="Image" width="70%"/>
+    <img src="https://i.imgur.com/NNrhhjz.png" alt="Image" width="70%"/>
 </p>
 
 # Cosmology: Project 2.
